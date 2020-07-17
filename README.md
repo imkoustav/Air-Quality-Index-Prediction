@@ -5,7 +5,7 @@ Within the last few years, an intense curiosity has been progressed by the peopl
 
 # Method
 
-1) Analysing the data: Data has been collected from the AQI.csv file and implemented in the estimation of Air Quality Index.
+1) Analysing the data: Data has been collected from the Real_Combine.csv file and implemented in the estimation of Air Quality Index.
 2) Seaborn pairplot: Seaborn pairplot has been implemented to plot pairwise relationships from the dataset.The pairplot function generates a grid of axes in such a way that each variable in data will be shared in the y-axis across a single row and in the x-axis across a single column.
 3) Generating Heat Map: Heat Map is generated to determine the features which are mostly familiar to the target variable
 4) Generating Extra Trees Regressor: This module is imported and generated in the model to determine the significance of each and every particular feature of our dataset.
